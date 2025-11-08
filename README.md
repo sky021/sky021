@@ -2,13 +2,13 @@
 ### Research AI Engineer | Software Engineer
 
 <p>
-  [cite_start]I am a Computer Science graduate student at ASU [cite: 4] [cite_startand a Research AI Engineer [cite: 11] passionate about building technology that automates complex tasks. 
+  I am a Computer Science graduate student at ASU and a Research AI Engineer passionate about building technology that automates complex tasks. 
   
-  My work focuses on engineering complete ML lifecycles, from data preparation to inference, to solve critical problems. [cite_start]I have experience reducing geotechnical analysis time from <strong>weeks to seconds (99% reduction)</strong> [cite: 13] [cite_start]using ML on AWS, and have saved over <strong>1000+ hours annually</strong> by automating financial data workflows with full-stack applications[cite: 16].
+  My work focuses on engineering complete ML lifecycles, from data preparation to inference, to solve critical problems. I have experience reducing geotechnical analysis time from <strong>weeks to seconds (99% reduction)</strong> using ML on AWS, and have saved over <strong>1000+ hours annually</strong> by automating financial data workflows with full-stack applications.
 
-  - [cite_start]🔭 I’m currently engineering ML solutions for bridge safety assessments and particle tracking[cite: 13, 14].
-  - [cite_start]🌱 I’m currently deepening my skills in Data Processing at Scale and Statistical Machine Learning[cite: 6].
-  - [cite_start]📫 How to reach me: <strong>agrawal.akash@asu.edu</strong> [cite: 2]
+  - 🔭 I’m currently engineering ML solutions for bridge safety assessments and particle tracking.
+  - 🌱 I’m currently deepening my skills in Data Processing at Scale and Statistical Machine Learning.
+  - 📫 How to reach me: <strong>agrawal.akash@asu.edu</strong>
 </p>
 
 ---
@@ -56,6 +56,6 @@
 
 | Project | Description | Tech Used | Links |
 | :--- | :--- | :--- | :--- |
-| [cite_start]**NL2SQL AI Agent** [cite: 21] | [cite_start]Slashed data retrieval time from **3 days to <1 hour** for business teams by building a natural language wrapper to their database[cite: 23]. | [cite_start]Python, RAG, LangChain, LLM, VectorDB, LangGraph [cite: 21, 24] | [cite_start]`[Code]` [cite: 22] |
-| [cite_start]**LambdaLens** [cite: 25] | [cite_start]Reduced manual data review by **65%** and cloud costs by **50%** with a serverless pipeline (90%+ accuracy)[cite: 27]. | [cite_start]Python, AWS Lambda, OpenCV, Docker, ResNet-34 [cite: 25] | [cite_start]`[Code]` [cite: 26] |
-| [cite_start]**Persona AI** [cite: 31] | [cite_start]Improved marketing segmentation accuracy by **78%** by clustering 1M records and using LLMs for automated narrative generation[cite: 33]. | [cite_start]Python, K-means, XGBoost, Pandas, GeminiAPI, LLMs [cite: 31] | [cite_start]`[Code]` [cite: 32] |
+| **NL2SQL AI Agent** | Slashed data retrieval time from **3 days to <1 hour** for business teams by building a natural language wrapper to their database. | Python, RAG, LangChain, LLM, VectorDB, LangGraph | `[Code]` |
+| **LambdaLens**  | Reduced manual data review by **65%** and cloud costs by **50%** with a serverless pipeline (90%+ accuracy). | Python, AWS Lambda, OpenCV, Docker, ResNet-34 | `[Code]` |
+| **Persona AI** | Improved marketing segmentation accuracy by **78%** by clustering 1M records and using LLMs for automated narrative generation. | Python, K-means, XGBoost, Pandas, GeminiAPI, LLMs | `[Code]` |
