@@ -14,7 +14,7 @@ My focus is on building scalable, data-driven solutions that deliver measurable 
 - 🧠 **Top 2% (239 / 10,000)** in ICPC 2019  
 
 ### Recent Project — NL2SQL AI Agent
-Developed an AI agent that reduced data retrieval time from **3 days to under 1 hour** by building a natural language interface for business databases.  
+Developed an AI agent that slashed data retrieval time from **3 days to <1 hour** for business teams by building a natural language wrapper to their database.  
 **Tech:** `Python` · `RAG` · `LangChain` · `LangGraph` · `VectorDB` · `SQLite`  
 
 ### Languages and Tools
