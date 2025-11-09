@@ -15,7 +15,7 @@ Focused on delivering **quantifiable impact** through scalable automation and in
 
 ### 🧠 Most Recent Project
 *NL2SQL AI Agent*
-> Slashed data retrieval time from **3 days to <1 hour** for business teams by building a natural language wrapper to their database.  
+Slashed data retrieval time from **3 days to <1 hour** for business teams by building a natural language wrapper to their database.  
 **Tech:** `Python` · `RAG` · `LangChain` · `LangGraph` · `VectorDB` · `SQLite`
 
 ### 🧩 Languages and tools
