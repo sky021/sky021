@@ -1,61 +1,61 @@
-# Hi, I'm Akash Agrawal 👋
-### Research AI Engineer | Software Engineer
+# 👋 Hi, I'm Akash Agrawal
 
-<p>
-  I am a Computer Science graduate student at ASU and a Research AI Engineer passionate about building technology that automates complex tasks. 
-  
-  My work focuses on engineering complete ML lifecycles, from data preparation to inference, to solve critical problems. I have experience reducing geotechnical analysis time from <strong>weeks to seconds (99% reduction)</strong> using ML on AWS, and have saved over <strong>1000+ hours annually</strong> by automating financial data workflows with full-stack applications.
+🎓 MS in Computer Science @ Arizona State University (GPA 4.0)  
+💻 AI Engineer | Software Developer | Automation Enthusiast  
 
-  - 🔭 I’m currently engineering ML solutions for bridge safety assessments and particle tracking.
-  - 🌱 I’m currently deepening my skills in Data Processing at Scale and Statistical Machine Learning.
-  - 📫 How to reach me: <strong>agrawal.akash@asu.edu</strong>
+---
+
+### 🚀 About Me
+I build **AI-driven systems that automate human-intensive workflows** and integrate seamlessly into engineering ecosystems using **APIs, cloud platforms, and data-centric design**.  
+My focus is on delivering **quantifiable impact** through scalable automation and intelligent systems.
+
+---
+
+### 📈 Key Achievements
+- ⚙️ **99 % faster** geotechnical analysis @ ASU via complete ML lifecycle on AWS.  
+- 💰 **20 % reduction** in infrastructure costs @ LTIMindtree using scalable ETL automation.  
+- 🕒 **1000 + hours saved yearly** by building internal workflow automation.  
+- 🧠 **Top 2 % (239 / 10 000)** – ICPC 2019.  
+
+---
+
+### 🧠 Current Project
+#### **NL2SQL AI Agent**
+> Built an AI agent that converts natural-language questions into SQL queries — cutting data retrieval time from **3 days → < 1 hour** for business teams.
+
+**Tech:** `Python` · `LangChain` · `VectorDB` · `SQLite` · `LLM Orchestration`  
+**Impact:** Delivered faster data access and improved query reliability through an automated error-correction loop using LangGraph.
+
+---
+
+### 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
 
 ---
 
-<p align="left">
-  <a href="https://linkedin.com/in/akashagrawal021" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:agrawal.akash@asu.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-## 🛠️ My Tech Stack
-<p align="left">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  
-  <br><br>
-  <strong>ML & AI:</strong><br>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  
-  <br><br>
-  <strong>Frameworks, Cloud & DevOps:</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/VectorDB-0193E3?style=for-the-badge&logo=v&logoColor=white" alt="VectorDB"> </p>
+### 📚 Learning & Interests
+- 🧩 **Model Context Protocol (MCP):** exploring standardized frameworks for multi-model collaboration.  
+- 🤖 **Agentic AI Workflows:** building adaptive, API-integrated agents that automate engineering and data-driven decision loops.  
+- ☁️ **Cloud AI Pipelines:** advancing scalable, cost-efficient inference systems using AWS & LangChain.
 
 ---
 
-## 🚀 Featured Projects
-<p>
-  Here are a few projects that showcase my skills in AI and system building.
-</p>
+### 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashagrawal021)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:agrawal.akash@asu.edu)
 
-| Project | Description | Tech Used | Links |
-| :--- | :--- | :--- | :--- |
-| **NL2SQL AI Agent** | Slashed data retrieval time from **3 days to <1 hour** for business teams by building a natural language wrapper to their database. | Python, RAG, LangChain, LLM, VectorDB, LangGraph | `[Code]` |
-| **LambdaLens**  | Reduced manual data review by **65%** and cloud costs by **50%** with a serverless pipeline (90%+ accuracy). | Python, AWS Lambda, OpenCV, Docker, ResNet-34 | `[Code]` |
-| **Persona AI** | Improved marketing segmentation accuracy by **78%** by clustering 1M records and using LLMs for automated narrative generation. | Python, K-means, XGBoost, Pandas, GeminiAPI, LLMs | `[Code]` |
+---
+
+⭐ *“Automating today for a smarter tomorrow.”*
