@@ -1,7 +1,7 @@
 # 👋 Hi, I am Akash Agrawal
 
 **MS in Computer Science**, Arizona State University — *Graduating December 2025*  
-AI Engineer | Software Developer | Automation Enthusiast  
+AI Engineer | Software Developer | Forward Deployed Engineer  
 
 ### About Me
 I design and develop **AI-driven systems** that automate human-intensive workflows and integrate seamlessly into software engineering pipelines through **APIs, cloud infrastructure, and intelligent automation**.  
