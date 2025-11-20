@@ -44,6 +44,7 @@ Developed an AI agent that slashed data retrieval time from **3 days to <1 hour*
 - **Cloud AI Pipelines:** developing scalable, cost-efficient inference systems on AWS and LangChain  
 
 ### Connect With Me
+If you want to chat about software engineering, AI, or hiking trails in Arizona, feel free to connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashagrawal021)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:agrawal.akash@asu.edu)
 
